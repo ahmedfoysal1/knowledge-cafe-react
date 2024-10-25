@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "title": "The Journey Beyond",
+      "author": "Maria Sullivan",
+      "author_img": "https://i.ibb.co.com/Lnh1KsH/boy1.png",
+      "posted_date": "Mar 14 (4 days ago)",
+      "reading_time": 7,
+      "hashtags": ["#Adventure", "#SelfDiscovery", "#Inspiration"]
+    },
+    {
+      "id": "002",
+      "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "title": "Tech Trends in 2024",
+      "author": "John Doe",
+      "author_img": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+      "posted_date": "feb 16 (5 days ago)",
+      "reading_time": 5,
+      "hashtags": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+      "id": "003",
+      "cover": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+      "title": "Mysteries of the Ocean",
+      "author": "Alice Bennett",
+      "author_img": "https://i.ibb.co.com/4K4m3tC/boy2.jpg",
+      "posted_date": "April 20 (10 days ago)",
+      "reading_time": 6,
+      "hashtags": ["#Ocean", "#Science", "#Nature"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/yPFHrLK/31284257-7823409.jpg",
+      "title": "Mastering Front-End Development",
+      "author": "Ethan Morgan",
+      "author_img": "https://i.ibb.co.com/3FGNRVS/girl1.jpg",
+      "posted_date": "May 2 (2 days ago)",
+      "reading_time": 8,
+      "hashtags": ["#WebDevelopment", "#JavaScript", "#Frontend"]
+    },
+    {
+      "id": "005",
+      "cover": "https://images.unsplash.com/photo-1488805990569-3c9e1d76d51c",
+      "title": "A Journey Through History",
+      "author": "Sarah Lee",
+      "author_img": "https://i.ibb.co.com/5vPHdF1/girl2.jpg",
+      "posted_date": "Jan 5 (1 day ago)",
+      "reading_time": 9,
+      "hashtags": ["#History", "#Culture", "#Heritage"]
+    }
+  ]
+  
